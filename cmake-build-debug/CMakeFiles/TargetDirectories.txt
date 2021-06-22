@@ -1,0 +1,3 @@
+/Users/eddie/CLionProjects/arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/eddie/CLionProjects/arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eddie/CLionProjects/arrays/cmake-build-debug/CMakeFiles/arrays.dir
